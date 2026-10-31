@@ -4,16 +4,18 @@ Single-page site for Dr Ritesh Shah (neurosurgeon, spine focus, Narayana Multisp
 
 ## Rules
 
-- **Design is a verbatim copy of the owner's supplied design.** `src/page.html` and `src/styles.css` must not be restyled, refactored or "improved" unless the user asks. Make text edits in `src/page.html`.
+- **Design follows the owner's supplied design.** Do not restyle or refactor it unless the user asks. The language switch and script-specific typography are intentional additions.
+- Shared page markup lives in `src/App.jsx`. English, Gujarati and Hindi copy lives in `src/locales/*.json` and uses i18next; update matching keys in every language and run `npm test`.
 - **Never invent medical facts.** That includes credentials, years of experience, procedures, fees, timings, reviews and testimonials. Use only facts from the official Narayana Health profile or facts the user gives you.
-- SEO lives in `index.html` (`<head>` meta and JSON-LD) and in `public/robots.txt` and `public/sitemap.xml`. Keep name, address and phone identical everywhere.
-- `vite.config.js` prerenders `src/page.html` into `index.html` at build time, and `src/main.jsx` hydrates it. `App.jsx` must render exactly the same markup.
+- SEO lives in `index.html` (`<head>` meta and JSON-LD) and in `public/robots.txt`, `public/sitemap.xml`, and `public/llms.txt`. Keep name, address and phone identical everywhere.
+- `src/render.jsx` and `vite.config.js` prerender `/`, `/gu/` and `/hi/` with the same i18next configuration used by `src/main.jsx` during hydration. The homepage selects a browser language; explicit locale URLs and the English `?lang=en` link override detection.
 - Static files go in `public/`. Do not delete `public/CNAME`.
 
 ## Commands
 
 - `npm ci`: install dependencies
 - `npm run build`: production build into `dist/`. Run it to verify changes
+- `npm test`: build and run localization checks
 - `npm run dev`: local dev server
 
 ## Deploy

@@ -1,0 +1,126 @@
+{
+  "accessibility": {
+    "skip": "Skip to content",
+    "home": "Dr Ritesh Shah, home",
+    "navigation": "Main navigation",
+    "language": "Choose language",
+    "portrait": "Dr Ritesh Shah, Visiting Consultant in Neurosurgery at Narayana Multispeciality Hospital, Ahmedabad"
+  },
+  "brand": {
+    "name": "Dr Ritesh Shah",
+    "specialty": "Neurosurgery · Ahmedabad",
+    "topbar": "Neurosurgery · Ahmedabad, Gujarat",
+    "hospitalAppointments": "Hospital appointments: +91 80 6861 7787 ↗",
+    "portraitCaption": "BRAIN · SPINE · PERIPHERAL NERVES"
+  },
+  "nav": {
+    "expertise": "Expertise",
+    "about": "About",
+    "visit": "Your visit",
+    "appointments": "Appointments"
+  },
+  "hero": {
+    "eyebrow": "Visiting Consultant · Neurosurgery",
+    "intro": "Meet Dr Ritesh Shah, a neurosurgeon at Narayana Multispeciality Hospital, Ahmedabad, with a practice spanning brain, spine and peripheral nerve surgery.",
+    "consultation": "Plan a consultation",
+    "expertise": "Explore expertise",
+    "qualifications": "MBBS · MS (General Surgery) · MCh (Neurosurgery)",
+    "heading": "Brain & spine care.<br/><emphasis>A clearer path<br/>forward.</emphasis>"
+  },
+  "qualifications": {
+    "speciality": "Speciality",
+    "neurosurgery": "Neurosurgery",
+    "advanced": "Advanced qualification",
+    "mch": "MCh (Neurosurgery)",
+    "hospitalLabel": "Hospital affiliation",
+    "hospital": "Narayana Multispeciality Hospital, Ahmedabad"
+  },
+  "expertise": {
+    "eyebrow": "Areas of expertise",
+    "intro": "Explore the areas of practice listed in Dr Shah’s hospital profile. Your consultation helps determine which options are appropriate for your condition.",
+    "brain": {
+      "title": "Brain & cranial surgery",
+      "description": "Cranial surgery and neuro-oncology, including brain and spinal tumours."
+    },
+    "spine": {
+      "title": "Spine surgery",
+      "description": "Endoscopic spine surgery, spinal tumours and spinal deformity correction."
+    },
+    "endoscopic": {
+      "title": "Endoscopic brain surgery",
+      "description": "Endoscopic techniques form part of Dr Shah’s listed neurosurgical expertise."
+    },
+    "vascular": {
+      "title": "Vascular neurosurgery",
+      "description": "Cerebrovascular surgery and aneurysm surgery."
+    },
+    "peripheral": {
+      "title": "Peripheral nerve surgery",
+      "description": "Surgical care involving peripheral nerves."
+    },
+    "trauma": {
+      "title": "Trauma & stroke",
+      "description": "Trauma and stroke are included in his hospital-listed areas of practice."
+    },
+    "heading": "Focused expertise.<br/>Across brain & spine."
+  },
+  "about": {
+    "eyebrow": "Meet your specialist",
+    "intro": "Dr Ritesh Shah is listed as “Dr Shah Ritesh” by Narayana Health. His qualifications include a medical degree, postgraduate training in general surgery and an MCh in Neurosurgery.",
+    "areas": "His clinical areas span cranial and spinal surgery, endoscopic procedures, cerebrovascular surgery and peripheral nerve surgery.",
+    "medical": "Medical qualification",
+    "postgraduate": "Postgraduate qualification",
+    "ms": "MS (General Surgery)",
+    "superSpeciality": "Super-speciality qualification",
+    "official": "View official hospital profile",
+    "subtitle": "Visiting Consultant in Neurosurgery<br/>Narayana Multispeciality Hospital, Ahmedabad"
+  },
+  "visit": {
+    "eyebrow": "Plan your visit",
+    "intro": "Contact the hospital to confirm appointment availability, consultation fees and any specific instructions.",
+    "arrange": "Arrange your appointment",
+    "arrangeDescription": "Use the hospital contact details below to request a consultation.",
+    "records": "Bring your records",
+    "recordsDescription": "Bring available scans, reports, previous prescriptions and a current medication list.",
+    "questions": "Note your questions",
+    "questionsDescription": "Write down your concerns and a brief timeline of symptoms to discuss.",
+    "city": "AHMEDABAD",
+    "location": "Consultation location",
+    "maps": "Open in Google Maps",
+    "notice": "Please confirm Dr Shah’s consultation schedule with the hospital before travelling.",
+    "heading": "A little preparation.<br/>A more useful visit.",
+    "hospital": "Narayana<br/>Multispeciality Hospital",
+    "address": "Near Chakudiya Mahadev, Rakhial Cross Road,<br/>Opposite Rakhial Police Station, Rakhial,<br/>Ahmedabad, Gujarat 380023, India."
+  },
+  "faq": {
+    "eyebrow": "Before you book",
+    "locationQuestion": "Where does Dr Ritesh Shah consult?",
+    "locationAnswer": "His Narayana Health profile lists him as a Visiting Consultant in Neurosurgery at Narayana Multispeciality Hospital, Ahmedabad.",
+    "appointmentQuestion": "How can I request an appointment?",
+    "recordsQuestion": "What should I bring to my consultation?",
+    "recordsAnswer": "Bring available medical reports, scan images, previous prescriptions and a list of current medications. Ask the hospital if anything else is needed for your visit.",
+    "emergencyQuestion": "Can I book emergency care through this page?",
+    "emergencyAnswer": "This page is for routine appointment information. For a medical emergency, seek immediate help from your nearest emergency department. Do not wait for an outpatient appointment.",
+    "heading": "A few helpful<br/>answers.",
+    "appointmentAnswer": "Call Narayana Health’s published appointment number, <phone>+91 80 6861 7787</phone>, or visit his <profile>official hospital profile</profile>. The hospital can confirm availability and fees."
+  },
+  "contact": {
+    "eyebrow": "Take the next step",
+    "heading": "Let’s start with a consultation.",
+    "description": "Contact Narayana Health to arrange your visit with Dr Shah.",
+    "call": "Call +91 80 6861 7787",
+    "profile": "Or visit the hospital profile ↗"
+  },
+  "footer": {
+    "location": "Location",
+    "note": "General information only; not a substitute for medical advice. Appointments are arranged by Narayana Health. Profile details and portrait sourced from Narayana Health; checked 31 October 2026.",
+    "profileSource": "Profile source ↗",
+    "hospitalSource": "Hospital source ↗"
+  },
+  "meta": {
+    "title": "Dr Ritesh Shah | Neurosurgeon in Ahmedabad",
+    "description": "Dr Ritesh Shah, MBBS, MS, MCh (Neurosurgery): neurosurgeon in Ahmedabad for brain and spine surgery. Visiting Consultant at Narayana Multispeciality Hospital, Rakhial. Appointments: +91 80 6861 7787.",
+    "socialDescription": "Neurosurgeon in Ahmedabad for brain and spine surgery. Visiting Consultant at Narayana Multispeciality Hospital, Rakhial.",
+    "siteName": "Dr Ritesh Shah"
+  }
+}
