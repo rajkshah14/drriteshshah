@@ -7,6 +7,7 @@ Single-page site for Dr Ritesh Shah (neurosurgeon, spine focus, Narayana Multisp
 - **Design is a verbatim copy of the owner's supplied design.** `src/page.html` and `src/styles.css` must not be restyled, refactored or "improved" unless the user asks. Make text edits in `src/page.html`.
 - **Never invent medical facts.** That includes credentials, years of experience, procedures, fees, timings, reviews and testimonials. Use only facts from the official Narayana Health profile or facts the user gives you.
 - SEO lives in `index.html` (`<head>` meta and JSON-LD) and in `public/robots.txt` and `public/sitemap.xml`. Keep name, address and phone identical everywhere.
+- `vite.config.js` prerenders `src/page.html` into `index.html` at build time, and `src/main.jsx` hydrates it. `App.jsx` must render exactly the same markup.
 - Static files go in `public/`. Do not delete `public/CNAME`.
 
 ## Commands
